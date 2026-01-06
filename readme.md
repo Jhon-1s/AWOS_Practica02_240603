@@ -10,4 +10,4 @@ el manejo de , procesos y memoria en el contexto del desarrollo web orientado a 
 
 <p align="justify">
 Esta practica sera desarrollada con estructuras de ramales, para el estudiante comience con la manipulacion correcta
- de ramas en el contexto de control de versiones y desarrollo colaborativo utilizando Git y Github
+ de ramas en el contexto de control de versiones y desarrollo colaborativo utilizando Git y Github..
